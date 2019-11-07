@@ -1,0 +1,12 @@
+h1 {font-size: 30pt; font-family: "bradley hand itc";}
+h2 {font-size: 20pt; font-family: "bradley hand itc";}
+h3 {font-size: 25pt; font-weight: bold; font-family: "bradley hand itc";}
+p {font-size:22pt; font-style: bold; font-family: "bradley hand itc";}
+everything p {background: turquoise;} 
+body {background: turquoise; color: navy; font-weight: bold;}
+a:hover { color: black }
+nav a {	display: inline;
+        	border: 2px solid black;
+        	padding: 5px;
+		margin: 0px;
+		background: navy; color: turquoise;}
